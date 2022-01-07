@@ -54,8 +54,7 @@ background-color: rgb(243, 243, 243);</string>
     </property>
     <property name="font">
      <font>
-      <family>Ubuntu Condensed</family>
-      <pointsize>21</pointsize>
+      <pointsize>13</pointsize>
       <bold>true</bold>
      </font>
     </property>
